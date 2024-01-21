@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### 👋 I'm Anushka Tamrakar!
+### 👋 Hello,I'm Anushka Tamrakar!
 
 ### 🎓 Education: 
 Completed my Bachelor's degree in Information Technology in 2023.
