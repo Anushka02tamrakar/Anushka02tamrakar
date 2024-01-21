@@ -45,8 +45,10 @@ Actively participating in coding challenges and projects on platforms like Hacke
 Passionate about continuous learning and staying updated with the latest trends in technology.
 ### 🤝 Let's Connect:
 
-Open to collaboration and connecting with like-minded individuals.
- https://www.linkedin.com/in/anushka-tamrakar-0631091b6 | https://github.com/Anushka02tamrakar | https://www.hackerrank.com/profile/anushkatamrakar1
+Open to collaboration and connecting with like-minded individuals.  
+ https://www.linkedin.com/in/anushka-tamrakar-0631091b6    
+ https://github.com/Anushka02tamrakar  
+ https://www.hackerrank.com/profile/anushkatamrakar1
 
 
 Feel free to reach out: anushhkaa1702@gmail.com
