@@ -35,7 +35,7 @@ Specializing in the MERN stack for building full-stack applications.
 Knowledgeable in crafting engaging and user-friendly web experiences. 
 ### 🔧 Tech Toolbox:
 
-Python | C++ | HTML | CSS | JavaScript | React.js | Bootstrap
+Python | C++ | JavaScript | HTML | CSS | React.js | Bootstrap | Node.js | Express | MongoDB | TypeScript | PostgreSQL
 ### 🏆 Achievements:
 
 Successfully graduated in 2023 with a degree in Information Technology.  
